@@ -1,0 +1,35 @@
+*{ 
+    text-align: center;
+}
+td{
+    border: 2px solid black;
+    width: 50px;
+    height: 30px;
+
+}
+th{
+    background-color: rgb(247, 238, 78);
+    font-size: 30px;
+}
+.a{
+    background-color: rgba(249, 149, 78, 0.963);   
+}
+
+.b{
+    background-color: white;
+}
+.c{
+    background-color: rgb(201, 235, 235);
+}
+.d{
+    background: #d29cf4;
+}
+.e{
+    background: #63abe3;
+}
+.f{
+    background: #f3ef1b;
+}
+.g{
+    background: #ca7f22;
+}
